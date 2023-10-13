@@ -1,0 +1,2 @@
+Prefix plugins/CombineSamples/example/
+Plugin CombineSamples inputfile combine_partitions outputfile final
